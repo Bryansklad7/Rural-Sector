@@ -103,7 +103,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #172d0d  15%, #b3beb3 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #405d30 15%, #a0b0a2 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2291,15 +2291,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #859e4c;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #7c8b4f;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #859e4c;
 		}
 
 		.icon.style4 {
