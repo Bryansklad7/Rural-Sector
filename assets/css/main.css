@@ -3392,8 +3392,12 @@ input, select, textarea {
 			#main input[type="button"]:hover,
 			#main button:hover,
 			#main .button:hover {
-				background-color: rgba(222, 222, 222, 0.25);
+				background-color: rgb(87 108 47);
 			}
+
+.solid:hover{
+	transform: scale(1.05);
+}
 
 			#main input[type="submit"]:active,
 			#main input[type="reset"]:active,
