@@ -3301,6 +3301,11 @@ input, select, textarea {
 						box-shadow: none;
 					}
 
+.active:hover {transform: scale(1.2); 
+}
+
+
+
 		#nav.alt {
 			position: fixed;
 			top: 0;
