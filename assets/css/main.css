@@ -3294,15 +3294,15 @@ input, select, textarea {
 
 					#nav ul li a:hover {
 						background-color: rgba(222, 222, 222, 0.25);
+						transform: scale(1.1); 
+				
 					}
 
 					#nav ul li a.active {
 						background-color: #ffffff;
 						box-shadow: none;
+						transition: transform .1s ease-in-out;
 					}
-
-.active:hover {transform: scale(1.2); 
-}
 
 
 
